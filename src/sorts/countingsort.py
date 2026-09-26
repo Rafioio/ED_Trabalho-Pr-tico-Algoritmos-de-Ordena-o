@@ -1,6 +1,6 @@
 from sort import Sort
 
-class Insertionsort(Sort):
+class CountingSort(Sort):
     def __init__(self, data):
         self.data = data
 
